@@ -35,6 +35,7 @@ require (
 	github.com/twmb/murmur3 v1.1.8
 	github.com/wolfeidau/s3iofs v1.5.2
 	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
@@ -79,5 +80,4 @@ require (
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/tools v0.23.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
